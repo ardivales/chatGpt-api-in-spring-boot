@@ -11,7 +11,7 @@ Create a Spring Boot application that will generate responses to a prompt by cal
 
 - Download the source code and import it into your editor.
 - Replace openai.api.key with your secret-api-key generated on https://platform.openai.com/account/api-keys
-  ![App Screenshot](https://prnt.sc/O8J5KCOJLu7w)
+  ![App Screenshot](https://github.com/ardivales/chatGpt-api-in-spring-boot/assets/46837379/4bb40f34-72fc-470e-a1c2-0eefe55bd73e)
 
 ## Run the application
 Ye can now run the application and test it in the browser:
